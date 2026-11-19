@@ -1,0 +1,4 @@
+tests/GoogleSearchTest.class
+tests/NegativeLoginTest.class
+tests/LoginTest.class
+tests/CheckoutTest.class
